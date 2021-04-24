@@ -6,8 +6,8 @@ En esta seccion haremos algunos graficos con matpotlib
 ![](imagenes/grafico.PNG)
 <h3>Grafico 2</h3>
 
-![](Imagenes/geo2.PNG)
+![](imagenes/grafico2.PNG)
 <h3>Grafico 3</h3>
 
-![](Imagenes/geo3.PNG)
+![](imagenes/grafico3.PNG)
 
